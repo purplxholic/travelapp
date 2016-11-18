@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-log4j12\1.7.5\6edffc576ce104ec769d954618764f39f0f0f10d\slf4j-log4j12-1.7.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6edffc576ce104ec769d954618764f39f0f0f10d">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-log4j12-1.7.5_8ce450710da61dd9cd2ba49ca54e2f6a77b2fc21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_5f5c642b4db21ec801ed2fb1f1cc53e09c4228b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_459c66d59e551c8a58988fd4991b004b1deaeada\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_46c2dc33dd664465784247d42f170968d3ef288f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.2.0\a56f28d5b7fab623c6c1d2afa08dd496d873ac21\logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.2.0_111811b87609c1c662f1eae15e5a983d863149fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_fd266851a281f9d0c1f50e9947c932eb0ec4a21e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_87d9e4d08e7bc9f3065eaf8048092bb98149bfb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_cb9e72edebb20221e7ca3752b8ab2bf838b53e04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_a07a094c5bf08014e6ff8a3d8da539be7b73083e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_3e7187f348c0d59e049a35a1ac5a7b64969ab4a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_3bd83438d8b5fc9442899cb0d66f0243f4db5660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_38606efb9a7abffaa400797925389383b7d3211f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.squareup.moshi\moshi\1.1.0\9c665b797ef9427f6d73572642dcb5f90270f7d3\moshi-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c665b797ef9427f6d73572642dcb5f90270f7d3">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\moshi-1.1.0_eda1b6d0939d3d8eea1b01aa3e5d98672a617273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-moshi\2.0.2\f956770d1309927879550cdfa0144b63ac891654\converter-moshi-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f956770d1309927879550cdfa0144b63ac891654">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-moshi-2.0.2_2ad063f812d274a8f00de8c644ff27cb7d2cfffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_ccb69ca5be95567aaba02d3e4c2b0c288a1ee6af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ac9162534734372160ac3f5902f5a95aa983a21e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_e622744c62e460069b7e7e5b4bf5f5d3de6b1b9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_3a8108160ed1b0cfec83f6d908a71291f978d925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_32321adf86a94c6b597acd6e1d6d7bda8c43f4dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.5\6b262da268f8ad9eff941b25503a9198f0a0ac93\slf4j-api-1.7.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-api-1.7.5_66237fb944235f2341a878b3a9761e889029820a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_b7fa39ed674861c221b2ccd9bb2eed972f6cdf73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_ec32555abb72eabf277bfaf5ee567e0049e9a47a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.19.0_9345d2efd30fccacaa08292c1211436af8ceeb11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.17\5af35056b4d257e4b64b9e8069c0746e8b08629f\log4j-1.2.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5af35056b4d257e4b64b9e8069c0746e8b08629f">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\log4j-1.2.17_cfc7c10da5b35d700e2d33a551585e2e5b4c979d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a72b7f6dfb5f13a9c36c31c262da4a62c9f02279">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7e178a080f311b7b108427c13f0f6ab74cc6b76b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_d5a732471a35b2d32bfeaf129d2dcef126f4622b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_44e5dd7de3cf2d6ab93d0e5958dd78e071db3607\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a9cd281f10fd38d79a7d31924e7c2935a4b9abc">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3cc87ce43c9a8fe439d483d25181b65ffa498ab9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_11a7751eba2cf2a58852e5744edc27e4fece2a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_086c3e541104dbed95f812fe9b7fbb38f191e6bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.uber.sdk\rides\0.5.2\7b982f0f54dc2daef68a6625bb5de88f4ad6ada8\rides-0.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7b982f0f54dc2daef68a6625bb5de88f4ad6ada8">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\rides-0.5.2_47ce909b7a878a89a3fad6addd68ecba861e0f9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5184d70479327f6f542028a3f8bd19c9a9473f84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_5141c4941948f9edb0ab0e1c011cfbfde21dc8be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_0389009df5c02a7699aa6980a901228c3ea48fa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_6b1ca0990012278044bb59880988ff768a5240c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.19.0_7158a6503eb1e744e707ed63e4e26bf96b8803df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.19.0_dd16f29fbaea977275963955c0d7566408df768a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1e7c57c63ee3082afab901098c87a51216d2e31b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_37812f13b5596f1d9862e462733399db87791ba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.uber.sdk\core-android\0.5.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40d9be371bbc37ed64c423b31ac34f6ec9c71dd6">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.uber.sdk-core-android-0.5.3_b67983ee339c8d19c608a16433bdc0e61ecb8c8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\exploded-aar\com.uber.sdk\rides-android\0.5.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5d426747c2c9f153a30b6bd7776790d2c3e87e82">
+        <dex dex="C:\Users\The Gt Zan\Documents\50.001 Intro to IS\travelapp-tablayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.uber.sdk-rides-android-0.5.3_b60673cf57c13ec7a711a465d80a20ffc341a60f\classes.dex" />
+    </item>
+
+</items>
